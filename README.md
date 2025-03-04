@@ -2,4 +2,4 @@
 
 ## Demo
 
-Check out the live demo here: [Zestora Demo](https://qaiserejaz.github.io/Real-Time-Character-Counter/) 
+Check out the live demo here: [Demo](https://qaiserejaz.github.io/Real-Time-Character-Counter/) 
